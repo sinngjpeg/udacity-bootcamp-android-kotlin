@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Ingrid Silva</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi, my name is Ingrid
+    \n\n I love Pets.
+    \n\n With them life gets more fun!
+    \n\n I love Books
+    \n\n all the magic that they bring
+   \n\n I love Pets.
+    \n\n With them life gets more fun!
+    \n\n I love Books
+    \n\n all the magic that they bring
+    \n\n I love Pets.
+    \n\n With them life gets more fun!
+    </string>
 </resources>
