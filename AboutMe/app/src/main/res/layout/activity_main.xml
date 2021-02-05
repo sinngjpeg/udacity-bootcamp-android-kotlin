@@ -67,6 +67,4 @@
             android:lineSpacingMultiplier="1.2"
             android:text="@string/bio" />
     </ScrollView>
-
-
 </LinearLayout>
